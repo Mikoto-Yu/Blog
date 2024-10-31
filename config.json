@@ -3,7 +3,7 @@
     "subTitle":"Blog description",
     "avatarUrl":"https://lh3.googleusercontent.com/a/ACg8ocJfUgc29yzhVGGeqUtkvstqJfQV34WLWRH9YUvl-q-KwUd0ruvY5gejCxVOnr1mgX-ddqHGAhC3ejiUDOf9if0Fi5G0UWs=s432-c-no",
     "GMEEK_VERSION":"last",
-    "homeUrl":"www.mikoto.line.pm",
+    "urlMode":"pinyin",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "startSite":"10/30/2020",
