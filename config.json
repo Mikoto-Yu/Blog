@@ -1,6 +1,6 @@
 {
     "title":"MikotoのBlog",
-    "subTitle":"Blog description",
+    "subTitle":"feedId:76083526401409024+userId:68537271950730240",
     "avatarUrl":"https://Mikoto-Yu.github.io/Blog/avatar.jpg",
     "GMEEK_VERSION":"last",
     "urlMode":"pinyin",
@@ -10,7 +10,6 @@
     "onePageListNum":10,
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-    "follow_challenge": {"feed_id": "76083526401409024","user_id": "68537271950730240"},
     "i18n":"CN",
     "themeMode":"manual",
     "dayTheme":"light",
