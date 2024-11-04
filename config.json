@@ -10,10 +10,7 @@
     "onePageListNum":10,
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-
-    "feed_id": "76083526401409024",
-    "user_id": "68537271950730240",
-
+    "follow_challenge": {"feed_id": "76083526401409024","user_id": "68537271950730240"},
     "i18n":"CN",
     "themeMode":"manual",
     "dayTheme":"light",
